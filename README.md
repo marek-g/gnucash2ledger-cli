@@ -1,4 +1,4 @@
 gnucash2ledger-cli
 ==================
 
-Gnucash (general ledger html report) to ledger-cli converter.
+Gnucash (general journal html report) to ledger-cli converter.
